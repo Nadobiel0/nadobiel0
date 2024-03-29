@@ -1,5 +1,15 @@
-### Hi there 👋
+###✨ Ola, me chamo Gabriel Marques 👋
 
+<p>-Graduado em Análise e Desenvolvimento de Sistemas</p>
+<p>-Busco constantemente aprimorar minhas habilitades como desenvolvedor, onde estou aberto para novos desafios, me compromentendo para novos desafios em busca de novas habilidades</p>
+
+## Linguagens
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+</div>
 <!--
 **Nadobiel0/nadobiel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
